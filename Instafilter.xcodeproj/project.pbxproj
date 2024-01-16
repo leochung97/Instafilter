@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9919B8EE2B57279C002B4CF5 /* PhotosPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9919B8ED2B57279C002B4CF5 /* PhotosPickerView.swift */; };
 		9919B8F02B5737D7002B4CF5 /* ShareLinkNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9919B8EF2B5737D7002B4CF5 /* ShareLinkNotes.swift */; };
+		9919B8F22B573956002B4CF5 /* RequestReviewNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9919B8F12B573956002B4CF5 /* RequestReviewNotes.swift */; };
 		99BB1E802B55C881008F63F6 /* InstafilterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BB1E7F2B55C881008F63F6 /* InstafilterApp.swift */; };
 		99BB1E822B55C881008F63F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BB1E812B55C881008F63F6 /* ContentView.swift */; };
 		99BB1E842B55C883008F63F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99BB1E832B55C883008F63F6 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* Begin PBXFileReference section */
 		9919B8ED2B57279C002B4CF5 /* PhotosPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosPickerView.swift; sourceTree = "<group>"; };
 		9919B8EF2B5737D7002B4CF5 /* ShareLinkNotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkNotes.swift; sourceTree = "<group>"; };
+		9919B8F12B573956002B4CF5 /* RequestReviewNotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestReviewNotes.swift; sourceTree = "<group>"; };
 		99BB1E7C2B55C881008F63F6 /* Instafilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instafilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99BB1E7F2B55C881008F63F6 /* InstafilterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstafilterApp.swift; sourceTree = "<group>"; };
 		99BB1E812B55C881008F63F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				99BB1E812B55C881008F63F6 /* ContentView.swift */,
 				9919B8ED2B57279C002B4CF5 /* PhotosPickerView.swift */,
 				9919B8EF2B5737D7002B4CF5 /* ShareLinkNotes.swift */,
+				9919B8F12B573956002B4CF5 /* RequestReviewNotes.swift */,
 				99BB1E832B55C883008F63F6 /* Assets.xcassets */,
 				99BB1E852B55C883008F63F6 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				9919B8EE2B57279C002B4CF5 /* PhotosPickerView.swift in Sources */,
 				9919B8F02B5737D7002B4CF5 /* ShareLinkNotes.swift in Sources */,
+				9919B8F22B573956002B4CF5 /* RequestReviewNotes.swift in Sources */,
 				99BB1E822B55C881008F63F6 /* ContentView.swift in Sources */,
 				99BB1E802B55C881008F63F6 /* InstafilterApp.swift in Sources */,
 			);
